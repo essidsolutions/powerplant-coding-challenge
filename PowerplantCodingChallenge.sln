@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPaas.Api", "SPaas.Api\SPaas.Api.csproj", "{8E36A4D6-A3CB-49B1-A3B8-B25C6187253B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPaas.Test", "SPaas.Test\SPaas.Test.csproj", "{F116BEDF-F26D-459C-A662-7814669A9395}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPaas.Services", "SPaas.Services\SPaas.Services.csproj", "{532DB682-2341-4265-956C-503D08F8FA2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E36A4D6-A3CB-49B1-A3B8-B25C6187253B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E36A4D6-A3CB-49B1-A3B8-B25C6187253B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E36A4D6-A3CB-49B1-A3B8-B25C6187253B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E36A4D6-A3CB-49B1-A3B8-B25C6187253B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F116BEDF-F26D-459C-A662-7814669A9395}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F116BEDF-F26D-459C-A662-7814669A9395}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F116BEDF-F26D-459C-A662-7814669A9395}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F116BEDF-F26D-459C-A662-7814669A9395}.Release|Any CPU.Build.0 = Release|Any CPU
+		{532DB682-2341-4265-956C-503D08F8FA2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{532DB682-2341-4265-956C-503D08F8FA2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{532DB682-2341-4265-956C-503D08F8FA2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{532DB682-2341-4265-956C-503D08F8FA2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

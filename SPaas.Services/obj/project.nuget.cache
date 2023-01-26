@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "H/kINIZJuS6133zAKn0+n+8WZTg7ij9jBnPKYep/vrq5P82yGc6dxf13MsVjHShPgQPHnqT//EC9AS/pudVIWA==",
+  "success": true,
+  "projectFilePath": "/Users/mohamed/Git/engie-powerplant-coding-challenge/SPaas.Services/SPaas.Services.csproj",
+  "expectedPackageFiles": [
+    "/Users/mohamed/.nuget/packages/automapper/10.1.1/automapper.10.1.1.nupkg.sha512",
+    "/Users/mohamed/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/8.1.1/automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "/Users/mohamed/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/mohamed/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.0.0/microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "/Users/mohamed/.nuget/packages/microsoft.extensions.options/3.0.0/microsoft.extensions.options.3.0.0.nupkg.sha512",
+    "/Users/mohamed/.nuget/packages/microsoft.extensions.primitives/3.0.0/microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "/Users/mohamed/.nuget/packages/system.reflection.emit/4.7.0/system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
